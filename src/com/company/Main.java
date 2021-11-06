@@ -18,5 +18,10 @@ public class Main {
         sun.radius = 150;
         sun.maritalStatus = "double";
 
+        Planet2 planet = new Planet2();
+        planet.color = "Red";
+        planet.size = "150";
+        planet.Status = "single"; 
+
     }
 }
