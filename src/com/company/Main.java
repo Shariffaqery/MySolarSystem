@@ -12,11 +12,11 @@ public class Main {
 
 
         featureSun sun = new featureSun();
-        sun.color = "Yellow";
-        sun.heat = "6000000000000";
-        sun.temp = "5000000 cius";
-        sun.radius = "0.009";
-        sun.maritalStatus = "single";
+        sun.color = "Red";
+        sun.heat = "80000";
+        sun.temp = "8987987 cius";
+        sun.radius = 150;
+        sun.maritalStatus = "double";
 
     }
 }
